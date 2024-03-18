@@ -10,4 +10,4 @@ pip install -r requirements.txt
 python crypto-bot.py
 ```
 
-### Dummy Api [here ↗️](https://dummy-api.hivaibhav.xyz/api/price)
+### Dummy Api [here ↗️](https://dummy-api.hivaibhav.xyz)
